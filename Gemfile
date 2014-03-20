@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'httparty'
-gem 'hashie', '~> 1'
+gem 'hashie', '~> 2'
 gem 'json'
 
 group :development, :test do
